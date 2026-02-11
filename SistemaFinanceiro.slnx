@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="APIFinanceira.Tests/APIFinanceira.Tests.csproj" />
+  <Project Path="APIFinanceira/APIFinanceira.csproj" />
+  <Project Path="WorkerNotificacao/WorkerNotificacao.csproj" />
+</Solution>
